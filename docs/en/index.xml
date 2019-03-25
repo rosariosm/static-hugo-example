@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pedrito</title>
-    <link>https://rosariosm.github.io/static-hugo-example/</link>
+    <link>https://rosariosm.github.io/static-hugo-example/en/</link>
     <description>Recent content on Pedrito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2019 10:53:33 -0300</lastBuildDate>
     
-	<atom:link href="https://rosariosm.github.io/static-hugo-example/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rosariosm.github.io/static-hugo-example/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sample_post</title>
-      <link>https://rosariosm.github.io/static-hugo-example/posts/sample_post/</link>
+      <link>https://rosariosm.github.io/static-hugo-example/en/posts/sample_post/</link>
       <pubDate>Thu, 21 Mar 2019 10:53:33 -0300</pubDate>
       
-      <guid>https://rosariosm.github.io/static-hugo-example/posts/sample_post/</guid>
-      <description>Spañoooooooooool</description>
+      <guid>https://rosariosm.github.io/static-hugo-example/en/posts/sample_post/</guid>
+      <description>One of the things I&amp;rsquo;m very interested in is writing words and seeing them on the page.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rosariosm.github.io/static-hugo-example/about/</link>
+      <link>https://rosariosm.github.io/static-hugo-example/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rosariosm.github.io/static-hugo-example/about/</guid>
+      <guid>https://rosariosm.github.io/static-hugo-example/en/about/</guid>
       <description></description>
     </item>
     

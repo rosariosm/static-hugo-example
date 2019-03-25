@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pedrito</title>
+    <link>https://rosariosm.github.io/static-hugo-example/en/posts/</link>
+    <description>Recent content in Posts on Pedrito</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Mar 2019 10:53:33 -0300</lastBuildDate>
+    
+	<atom:link href="https://rosariosm.github.io/static-hugo-example/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample_post</title>
+      <link>https://rosariosm.github.io/static-hugo-example/en/posts/sample_post/</link>
+      <pubDate>Thu, 21 Mar 2019 10:53:33 -0300</pubDate>
+      
+      <guid>https://rosariosm.github.io/static-hugo-example/en/posts/sample_post/</guid>
+      <description>One of the things I&amp;rsquo;m very interested in is writing words and seeing them on the page.</description>
+    </item>
+    
+  </channel>
+</rss>

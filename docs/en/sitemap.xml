@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rosariosm.github.io/static-hugo-example/en/posts/sample_post/</loc>
+    <lastmod>2019-03-21T10:53:33-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rosariosm.github.io/static-hugo-example/posts/sample_post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rosariosm.github.io/static-hugo-example/en/posts/sample_post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rosariosm.github.io/static-hugo-example/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rosariosm.github.io/static-hugo-example/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rosariosm.github.io/static-hugo-example/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rosariosm.github.io/static-hugo-example/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rosariosm.github.io/static-hugo-example/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rosariosm.github.io/static-hugo-example/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rosariosm.github.io/static-hugo-example/en/</loc>
+    <lastmod>2019-03-21T10:53:33-03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rosariosm.github.io/static-hugo-example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rosariosm.github.io/static-hugo-example/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rosariosm.github.io/static-hugo-example/en/posts/</loc>
+    <lastmod>2019-03-21T10:53:33-03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rosariosm.github.io/static-hugo-example/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rosariosm.github.io/static-hugo-example/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rosariosm.github.io/static-hugo-example/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rosariosm.github.io/static-hugo-example/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rosariosm.github.io/static-hugo-example/en/tags/"
+                />
+  </url>
+  
+</urlset>

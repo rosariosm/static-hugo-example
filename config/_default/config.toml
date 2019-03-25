@@ -5,13 +5,24 @@ theme = "mytheme"
 googleAnalytics = ""
 publishDir = "docs"
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+DefaultContentLanguage = "es"
 
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+[languages]
+  [languages.en]
+    [[languages.en.menu.main]]
+	  identifier = "about"
+      name = "About"
+      url = "/about/"
+	[[languages.en.menu.main]]
+	  identifier = "posts"
+      name = "Posts"
+      url = "/posts/"
+  [languages.es]
+    [[languages.es.menu.main]]
+	  identifier = "nosotros"
+      name = "Nosotros"
+      url = "/nosotros/"
+	[[languages.es.menu.main]]
+	  identifier = "cositas"
+      name = "Cositas"
+      url = "/posts/"
