@@ -7,6 +7,9 @@ publishDir = "docs"
 
 DefaultContentLanguage = "es"
 
+[permalinks]
+  posts = "/:slug/"
+
 [languages]
   [languages.en]
     [[languages.en.menu.main]]
