@@ -12,17 +12,17 @@ DefaultContentLanguage = "es"
     [[languages.en.menu.main]]
 	  identifier = "about"
       name = "About"
-      url = "/about/"
+      url = "about/"
 	[[languages.en.menu.main]]
 	  identifier = "posts"
       name = "Posts"
-      url = "/posts/"
+      url = "posts/"
   [languages.es]
     [[languages.es.menu.main]]
 	  identifier = "nosotros"
       name = "Nosotros"
-      url = "/nosotros/"
+      url = "nosotros/"
 	[[languages.es.menu.main]]
 	  identifier = "cositas"
       name = "Cositas"
-      url = "/posts/"
+      url = "posts/"
